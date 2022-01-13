@@ -6,18 +6,6 @@ This repository contains the procedure we followed to deploy our web app of Cred
 
 Since the data for credit card fraud is not available in real form(due to confidentiality), and is availbale only in dimensionality reduced form, we will be sharing some of the test cases here.
 
-### Model Training
-
-- Architecture
-
-  - Logistic Regression with balanced class weight.
-
-- Inference Results
-  - Accuracy: 0.976
-  - Recall: 0.896
-
----
-
 ### Web App Production
 
 - Procfile
